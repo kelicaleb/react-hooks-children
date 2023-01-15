@@ -62,3 +62,9 @@ code {
 .container.right {
   text-align: right;
 }
+.test{
+  color: red;
+}
+.container-test.verticle{
+  color: rgb(2, 70, 94);
+}
